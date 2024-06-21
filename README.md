@@ -4,3 +4,5 @@ Watch the Complete Project YouTube Video ->
 https://www.youtube.com/watch?v=zZfhAXfBvVA&list=RDCMUCnnQ3ybuyFdzvgv2Ky5jnAA&index=1
 
 ![Ultimate CI-CD Pipeline Workflow](https://github.com/sourabh451/b/assets/134592493/156009d0-3d24-4310-9527-4441f6b197e6)
+
+![Jenkins Architecture](https://github.com/sourabh451/b/assets/134592493/67d7ca72-38d0-4f2a-863a-18ce72736e99)
