@@ -6,7 +6,7 @@
 
 ![Jenkins Architecture](https://github.com/sourabh451/b/assets/134592493/67d7ca72-38d0-4f2a-863a-18ce72736e99)
 
-### Here are the step-by-step details followed in the above video to set up an Ultimate Continuous Integration and Continuous Delivery process using a Declarative Jenkins pipeline. This pipeline automates the entire CI/CD process for a Spring Boot Java application, starting from the introduction of the workflow, followed by building the application, to production deployment. It uses popular tools like Maven, SonarQube, Docker, Argo CD, and Kubernetes:
+### Here are the step-by-step details followed in the above video to set up an Ultimate Continuous Integration and Continuous Delivery process using a Declarative Jenkins pipeline. This pipeline automates the entire CI/CD process for a Spring Boot Java application, from code checkout to production deployment. It uses popular tools like Maven, SonarQube, Docker, Argo CD, and Kubernetes:
 ```
 1. Introduction:
    1.1 Introduction of complete CI/CD pipeline workflow.
