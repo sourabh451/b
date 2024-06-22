@@ -14,7 +14,8 @@
 
 2. Building the simple spring boot java application using maven.
 
-3. Build the Docker images which contains installation and configuration of maven and docker and Push it to the docker registry.
+3. Build the Docker images which contains installation and configuration of maven and docker and Push
+   it to the docker registry.
 
 4. Add a Jenkinsfile and Dockerfile to the local repository of spring boot java application to define the pipeline stages:
    4.1 Define the declarative jenkins CI pipeline stages:
